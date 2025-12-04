@@ -53,8 +53,8 @@ Model Waveform
 
 Program
 
-Am=4.7;
-Ac=9.4;
+Am=5.8;
+Ac=11.6;
 Fm=364;
 Fc=3640;
 Fs=36400;
@@ -81,8 +81,7 @@ OUTPUT WAVEFORM
 <img width="757" height="674" alt="image" src="https://github.com/user-attachments/assets/fab2996e-0470-4ada-9456-6ee677f8ea5e" />
 
 TABULATION
-
-![WhatsApp Image 2025-10-04 at 20 33 33_1a3fb5dc](https://github.com/user-attachments/assets/943cca42-1e2c-4fe2-8172-bfb231b6f7de)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b03f2fbc-5c67-400c-acd8-0f2b4c0f1204" />
 
 
 
